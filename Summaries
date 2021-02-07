@@ -3,15 +3,10 @@
    title={Use of Mobile Health Applications in Low-Income Populations},
    journal={A Prospective Study of Facilitators and Barriers},
    year=2020,
-   abstract= {
-   },
-}
-
-@article{A2W1,
-   author={Kevin Patrick, William G. Griswold, Fred Raab, Stephen S. Intille},
-   title={Health and the Mobile Phone},
-   journal={REVIEW AND SPECIAL ARTICLE},
-   year=2020,
-   abstract= {
+   abstract= { As we all know, digital health applications have grown increasingly abundant. Many apps provide health monitors that keep track of peoples health rate,
+   blood pressure and blood glucose. Additonally, patients are able to access their health information at the palm of their hands. However, for the low income populations
+   these benefits are not easily accessable. The issues can consist of unavaliable elctronics, limited understanding of health terminology, lack of empowerment and mistrust 
+   of health services. The research enrolled patience that had access to a smart device. They deduced from the reasearch that many patients (1/5th) did not use the application 
+   at the end of the study, commummucationn varried and should be chosen by preference and the aid of Community Health Workers had pushed users to stay persistent. 
    },
 }
