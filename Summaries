@@ -55,5 +55,28 @@
    },
 }
 
+@article{A1W3,
+   author={Galit Botzer, Michal Yerushalmy},
+   title={MOBILE APPLICATION FOR MOBILE LEARNING},
+   journal={IADIS International Conference on Cognition and Exploratory Learning in Digital Age},
+   year=2007,
+   abstract= { The case study wanted to test the bridge between the mobile application Math4Mobile and mobile users. Math4Mobile is a mobile learning environment
+   for mathematics learning. Technoloogy is becoming more intertwined in our dailys lives. The participants in this case study were able to learn mathematics using this 
+   application whereever and whenever. This allows the learning "classroom" to be anywhere at any time that works for the user which makes it very convenient. The users were
+   also able to interact socially using SMS to share their ideas, graphs and equations to strengthen their learning. The students would be able to become more social with other
+   learners and their teachers.},
+}
 
+@article{A2W3,
+   author={Laura Naismith, Peter Lonsdale, Giasemi Vavoula, Mike Sharples},
+   title={Literature Review in Mobile Technologies and Learning},
+   journal={NESTA FUTURELAB SERIES},
+   year=2004,
+   abstract= { Technology in our daily lives have come hand in hand. It is used to share information, interact with others and take pictures and videos. Educators are working 
+   towards intertwining technology into the classroom for enhanced learning. There are multiple methods of learning such as behaviourist, constructivist, situated, collaborative
+   informal and lifelong, and learning and teaching support. The importance of technology is based on the portability, social interactivity, context sensitivity,
+   connectivity and individuality. The size and weigh of the electronic allows for it to be used in or out of the classroom. Tehcnology gives students the ability to exchange data
+   with other students and share their ideas and thoughts. This collaborative learning allows students to understand topics at a deeper level. Technology allows for research and
+   can formulate scenarios to teach students global awareness. The use of technology has the ability to cater a students learning based on their own skill level.},
+}
 
