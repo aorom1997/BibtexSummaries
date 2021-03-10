@@ -118,8 +118,28 @@
    increasing the interest to learn in the students.},
 }
 
+// Second Paper Research
 
+@article{A1W6,
+   author={P.Punithavathia, S.Geetha, MarimuthuKaruppiah, SK HafizulIslam, Mohammad Mehedi Hassan, Kim-Kwang Raymond Choo},
+   title={A lightweight machine learning-based authentication framework for smart IoT devices},
+   journal={Information Sciences},
+   year= 2019,
+   abstract= { Our daily lives have been enhanced by IoT. IoT brings the connection of various physical objects. With the growing connection, there are increasingly additional
+   security and network situations. There is a need for Cancelable Biometric System, whihc is a template protection scheme based on distoritions/transformations and 
+   feature and signal level. },
+}
 
+@article{A2W6,
+   author={Guest Writer},
+   title={IoT-Based Mobile Applications and Their Impact on User Experience},
+   journal={UI & UX Design},
+   year= 2019,
+   abstract={ IoT can be be seen as an ecosystem of physical objects. They have many functions that can collect information and transer the data over the internet without any
+   need for manual input. There are many benefits of mobile applicaitons for iot which include, Cost efficiency, data collection, enhanced productivity, improved customber
+   experience, safer workplaces, and research. Mobile applications benefit IoT through creating smart homes, wearable technology, healthcare, retail and agriculture.
+   Iot with mobile applicatiosn improves workflow and convenience for the daily user},
+}
 
 
 
