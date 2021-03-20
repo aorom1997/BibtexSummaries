@@ -141,6 +141,26 @@
    Iot with mobile applicatiosn improves workflow and convenience for the daily user},
 }
 
+@article{A1W7,
+   author={Benjamin M.},
+   title={How IoT-Based Mobile Apps Impact User Experience},
+   journal={DogTown Media},
+   year=2019,
+   abstract= { IoT has made inevitable impact on user experience. Many IoT devices have corresponding mobile applications whihc allow users to effectively track and obtain 
+   information from theses devices. These devices allow users to understand, observe and analyze data with out the need for another individuals help. The IoT systems are 
+   rapidly growing and therefore will bring abundantance of new capabilities.},
+}
+
+@article{A2W7,
+   author={T.Thamaraimanalan, S.P.Vivekk, G.Satheeshkumar, P.Saravanan},
+   title={Smart Garden Monitoring System Using IOT},
+   journal={Asian Journal of Applied Science and Technology },
+   year=2018,
+   abstract= { IoT can be very beneficial to a vast majority of fields. Automation is a growing concept in the world. With IoT sensors can be linked to communicate to become
+   very effective in agriculture. The sensors used for teh smart garden consists of humidity, temperature, ultrasonic and moisture sensor. These sensors will relay the 
+   information to a microcontroller hub to process the information. This information could make alerts, or activiate other IoT devices inorder to keep the best possible
+   environment for the garden. In this method, the garden would not need human interaction to maintain the garden but rather over see the functionality of the devices.},
+}
 
 
 
