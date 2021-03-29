@@ -162,6 +162,25 @@
    environment for the garden. In this method, the garden would not need human interaction to maintain the garden but rather over see the functionality of the devices.},
 }
 
+@article{A2W8,
+   author={Dimiter V. Dimitrov},
+   title={Medical Internet of Things and Big Data in Healthcare},
+   journal={Healthcare Informatics Research},
+   year=2016,
+   abstract= { Medical Iot will be a critical additon on digitalizing healthcare. The benefits include changes in work processes, prooductivitym cost containment and 
+   enhance customer experience. MAny patients have started to use mobile applications and it shows as the best method to share individualized information. This change will 
+   introduce digital health coaches. The accessibility that medical IoT will bring will surely inmpove the quality of life in the healthcare field.},
+}
+
+@article{A2W8,
+   author={Fayez Qureshi, Sridhar Krishnan},
+   title={Wearable Hardware Design for the Internet of Medical Things (IoMT)},
+   journal={MDPI},
+   year=2018,
+   abstract= { The life expectancy of humans have incrreased due to teh andvance ment of medicine and quality of life. As people age their hleath deteriorates whihc calls for 
+   constant monitoring of their health. Medical IoT allows healthcare workers and other guardians to easily monitor individuals health through a touch of a button.The study 
+   attemps to research the the required hardward for wearable IoT to benefit the patient. },
+}
 
 
 
