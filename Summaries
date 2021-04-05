@@ -203,19 +203,23 @@
 }
 
 @article{A1W10,
-   author={},
+   author={Badis Hammi,  Rida Khatoun,  Sherali Zeadally,  Achraf Fayad,  Lyes Khoukhi},
    title={IoT technologiesfor smart cities},
    journal={IET Networks},
    year=2018,
-   abstract= {    },
+   abstract= { The uses of IoT have extended itself to many daily objects. It is creating more projects to design smart cities. Cities will have many connected objects that 
+   will make the cities smart. Although these connections may enhance daily living it may bring risks and privacy issues. Many cities have tried these systems and met with 
+   many benefits and newly found cons.},
 }
 
 @article{A2W10,
-   author={AdityaGaurBryanScotneyGerardParrSallyMcClean},
+   author={Aditya Gaur, BryanScotney, Gerard Parr, Sally McClean},
    title={Smart City Architecture and its Applications Based on IoT},
    journal={Procedia Computer Science},
    year=2015,
-   abstract= {    },
+   abstract= { Large sums of data have been collected due to the increasing numbers of IoT Sensors. The use of theses sensors in Smart Cities has brought amn information through
+   environmental monitoring, healthcare monitoring, and transport monitoring. To take advantage of the abundance of information new techiniques are used and created to manage 
+   such data. Understanding the information and applying the that information in solution will be key for positive growth.},
 }
 
 
