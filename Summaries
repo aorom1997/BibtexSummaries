@@ -162,7 +162,7 @@
    environment for the garden. In this method, the garden would not need human interaction to maintain the garden but rather over see the functionality of the devices.},
 }
 
-@article{A2W8,
+@article{A1W8,
    author={Dimiter V. Dimitrov},
    title={Medical Internet of Things and Big Data in Healthcare},
    journal={Healthcare Informatics Research},
@@ -182,7 +182,41 @@
    attemps to research the the required hardward for wearable IoT to benefit the patient. },
 }
 
+@article{A1W9,
+   author={Limin Liu},
+   title={IoT and A Sustainable City},
+   journal={Energy Procedia},
+   year= 2018,
+   abstract= {  The Internet of Things is the foundation that connects many smart devices together. These devices allow person to object or object to object communication. This
+   allows devices to work with one another with out any need for human interaction. This study focuses on a bicycle sharing system that will hell areas become more green
+   and convenient for the people.},
+}
 
+@article{A2W9,
+   author={Martin Strohbach, Holger Ziekow, Vangelis Gazis, Navot Akiva},
+   title={Towards a Big Data Analytics Framework for IoT and Smart City Applications},
+   journal={Modeling and Optimization in Science and Technologies},
+   year=2015,
+   abstract= { Data collection and comprehension is key to the maintenence of IOT devices. The advances in IoT and Data analytics has brought a wide range of machine learning algorithms and 
+   new potential devices. However there is still a need for a deeper connection of technology into the cities that are beneficial to manage problems like minimizing pollution
+   and managing traffic.},
+}
+
+@article{A1W10,
+   author={},
+   title={IoT technologiesfor smart cities},
+   journal={IET Networks},
+   year=2018,
+   abstract= {    },
+}
+
+@article{A2W10,
+   author={AdityaGaurBryanScotneyGerardParrSallyMcClean},
+   title={Smart City Architecture and its Applications Based on IoT},
+   journal={Procedia Computer Science},
+   year=2015,
+   abstract= {    },
+}
 
 
 
