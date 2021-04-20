@@ -222,6 +222,25 @@
    such data. Understanding the information and applying the that information in solution will be key for positive growth.},
 }
 
+@article{A1W11,
+   author={Quoc T. Huynh, Uyen D. Nguyen, Lucia B. Irazabal, Nazanin Ghassemian, and Binh Q. Tran},
+   title={Optimization of an Accelerometer and Gyroscope-Based Fall Detection Algorithm},
+   journal={Journal of Sensors},
+   year=2015,
+   abstract= { Falling is a common cause of injury amongst the elderly. The study focused on the Acceleratometer and the 3 axis Gyroscope. These tools measure the vibration or acceleration of motion
+   and the rotation of the object on 3 axis of rotation. The study used 36 human subjects and the data set was used to develop fall detection
+   algorithms.},
+}
+
+@article{A2W11,
+   author={John Kosowatz},
+   title={Top 10 Growing Smart Cities},
+   journal={The American Society of Mechanical Engineers},
+   year=2020,
+   abstract= { The global population is constantly growing and causes strains on infrastructure and services. Eperiments in many cities
+   will be integrating technology in to the city development to create smart cities. These technologies will be focusing on different
+   methods to connect IoT to benefit transportation, energy, water, sanitation and other basic needs. },
+}
 
 
 
