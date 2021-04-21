@@ -242,6 +242,25 @@
    methods to connect IoT to benefit transportation, energy, water, sanitation and other basic needs. },
 }
 
+@article{A1W12,
+   author={Paolo Bonato},
+   title={Advances in wearable technology and applications in physical medicine and rehabilitation},
+   journal={Journal of NeuroEngineering and Rehabilitation},
+   year=2005,
+   abstract= { Development of wearable technology must fit 3 main criterias. The sensors must be designed and implemented to be minimally obtrusive and be accurate and reliable
+   to record movement or phsiological data. The device or devices must be able to gather data from one another without hindering the workability of the other devices. The device's 
+   algorithms must be able to extract and relevant data from the data recorded in the wearable technology.},
+}
+
+@article{A2W12,
+   author={Sarah J. Darby},
+   title={Smart technology in the home: time for more clarity},
+   journal={Building Research & Information},
+   year=2017,
+   abstract= { The development of smart homes can be broken into two areas of focus. One section is  home/user focused and the other is building/system focused. Home/User focused 
+   Smart homes include IoT Appliances that can be monitored, accessed, or controlled remotely to respond to the needs of the inhabitant. Building/System focused Smart homes are homes
+   are IoT Modified homes that interact with the energy and/or water system to be able to produce, store or consume the corresponding needs efficiently.},
+}
 
 
 
