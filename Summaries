@@ -262,6 +262,30 @@
    are IoT Modified homes that interact with the energy and/or water system to be able to produce, store or consume the corresponding needs efficiently.},
 }
 
+@article{A1W13,
+   author={Rebecca Douch, Dr Carol Savill-Smith },
+   title={THE MOBILE LEARNING NETWORK: THE IMPACT OF MOBILE GAME-BASED LEARNING },
+   journal={IADIS International Conference Mobile Learning},
+   year=2010,
+   abstract= { The Mobile Learning NETwork (MoLeNET) is now in its third phase, having received a total of £16m from both the Learning and Skills Council (www.lsc.gov.uk) 
+   and from participating further education/sixth form colleges, secondary schools and specialist colleges, during 2007-2010. This has afforded the opportunity for
+   LSN to support theimplementation and embedding of mobile learning in participating English educational institutions. The support function includes project 
+   management and technical support and mentoring, research and evaluation. Projects involved in the MoLeNET programme have utilised a range of mobile technologies, 
+   including games devices, to support teaching andlearning across a variety of contexts. This paper explores the benefits of game-based learning and the ways in which
+   MoLeNET projects have exploited the potential of mobile game-based technologies. It also takes a look at how  MoLeNET projects have supported numeracy and 
+   literacy learners through the use of the Nintendo DS games device.  },
+}
+
+@article{A2W13,
+   author={Olatz Lopez-Fernandez, Niko Männikkö, Maria Kääriäinen, Mark D. Griffiths, Daria J. Kuss},
+   title={Mobile gaming and problematic smartphone use: A comparative study between Belgium and Finland},
+   journal={J Behav Addict.},
+   year=2017,
+   abstract= {Gaming applications have become one of the main entertainment features on smartphones, and this could be potentially problematic
+   in terms of dangerous, prohibited, and dependent use among a minority of individuals. A cross-national study was conducted in Belgium and Finland.
+   The aim was to examine the relationship between gaming on smartphones and self-perceived problematic smartphone use via an online survey to ascertain
+   potential predictors.},
+}
 
 
 
